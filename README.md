@@ -14,7 +14,6 @@ My proposal is for a journaling app that has a procedurually generated prompt fe
 Features:
 - Storage and revisting of past entries
 - Procedurally generated promp/question feature
-- Notification system to help user remember to make an entry each day
-- tracking: how many entries per week on average, word count average, favorite words
-- spell check via API implementation
+- Notification system to help user remember to make an entry each day (not implemented)
+- tracking: how many entries per week on average, word count average, favorite words (not implemented)
 
